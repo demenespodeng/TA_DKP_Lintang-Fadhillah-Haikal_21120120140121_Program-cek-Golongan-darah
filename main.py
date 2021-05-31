@@ -1,7 +1,7 @@
 from tkinter import ttk
 from tkinter import *
 from tkinter import messagebox
-from result import goldar
+from check import goldar
 from tkinter.messagebox import showinfo
 orang1 = goldar("","","","","","")
 
